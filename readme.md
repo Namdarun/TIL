@@ -1,6 +1,7 @@
 # TIL
 
 ## TIL안에 다른 폴더도 넣을 수 있고 링크도 넣을 수 있다.
+
 [마크다운](https://github.com/Namdarun/TIL.git)
 <<<<<<< HEAD
 
@@ -9,7 +10,6 @@
 삭제하려면 git remote remove origin 후 add -> commit -> push
 수정하려면 add -> commit -> push
 둘 중에 하나만 할 것. 그리고 vs코드에서 할 것 -> 왜냐? 계속 충돌이 일어난다. (서로 코드가 달라지므로)
-
 
 그렇다면 나는 무엇을 해야할까? 
 
